@@ -15,12 +15,13 @@ I am an application and data professional with experience developing and support
 My background combines application development, data integration, production support, reporting, and cloud data technologies.
 
 ---
-
+<!--
 ## 🚀 Portfolio
 
 🌐 **[Visit My Portfolio Website](https://agcho.github.io)**
+-->
 
-### ⭐ Featured Work
+## ⭐ Featured Work
 
 🚲 **[Toronto Bike Share Analytics Pipeline](https://github.com/agcho/Toronto-Bike-Share-Analytics-Pipeline-Project)**  
 End-to-end data engineering project using GCP, BigQuery, dbt, Kestra, Terraform, and Power BI.
