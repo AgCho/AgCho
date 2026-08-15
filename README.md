@@ -16,21 +16,14 @@ My background combines application development, data integration, production sup
 
 ---
 
-## 🚀 Portfolio & Projects
+## 🚀 Portfolio
 
-🌐 **[Visit My Portfolio](https://agcho.github.io)**
+🌐 **[Visit My Portfolio Website](https://agcho.github.io)**
 
-💻 **[View All GitHub Projects](https://github.com/agcho?tab=repositories)**
+### ⭐ Featured Work
 
-### ⭐ Featured Project
-
-#### 🚲 Toronto Bike Share Analytics Pipeline
-
-End-to-end data engineering and analytics project demonstrating data ingestion, transformation, processing, modeling, and reporting.
-
-**Technologies:** SQL | ETL | Data Engineering | Analytics | Power BI
-
-🔗 **[View Project](https://github.com/agcho/Toronto-Bike-Share-Analytics-Pipeline-Project)**
+🚲 **[Toronto Bike Share Analytics Pipeline](https://github.com/agcho/Toronto-Bike-Share-Analytics-Pipeline-Project)**  
+End-to-end data engineering project using GCP, BigQuery, dbt, Kestra, Terraform, and Power BI.
 
 ---
 
