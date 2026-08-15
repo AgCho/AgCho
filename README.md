@@ -124,16 +124,6 @@ End-to-end data engineering and analytics project demonstrating data ingestion, 
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/cho-aung](https://www.linkedin.com/in/cho-aung)
-- 🌐 **Portfolio:** [agcho.github.io](https://agcho.github.io)
-- 💻 **GitHub:** [github.com/agcho](https://github.com/agcho)
-- 📧 **Email:** agcho80@gmail.com
-- 📍 **Location:** Moncton, New Brunswick, Canada
-
----
-
 ## 🎯 Current Focus
 
 Currently building practical portfolio projects around:
