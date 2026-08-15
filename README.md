@@ -1,50 +1,141 @@
 # Hi, I'm Aung Cho 👋
 
-**.NET Developer | SQL Server & Data Specialist | Database Analyst**
+### Application & Data Systems Analyst
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5B5FC7)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+I am an application and data professional with experience developing and supporting enterprise applications, SQL Server databases, ETL pipelines, system integrations, and business intelligence solutions.
+
+My background combines application development, data integration, production support, reporting, and cloud data technologies.
+
+---
+
+## 🚀 Portfolio & Projects
+
+🌐 **[Visit My Portfolio](https://agcho.github.io)**
+
+💻 **[View All GitHub Projects](https://github.com/agcho?tab=repositories)**
+
+### ⭐ Featured Project
+
+#### 🚲 Toronto Bike Share Analytics Pipeline
+
+End-to-end data engineering and analytics project demonstrating data ingestion, transformation, processing, modeling, and reporting.
+
+**Technologies:** SQL | ETL | Data Engineering | Analytics | Power BI
+
+🔗 **[View Project](https://github.com/agcho/Toronto-Bike-Share-Analytics-Pipeline-Project)**
+
+---
+
+## 🛠️ Technical Skills
+
+### 🗄️ Database & Data
+- SQL Server
+- T-SQL
+- Stored Procedures
+- Query Optimization
+- SSIS
+- ETL / ELT
+- Data Integration
+- Data Validation
+- Azure SQL
+
+### 📊 Business Intelligence & Reporting
+- Power BI
+- DAX
+- Power Query
+- SSRS
+- Advanced Excel
+- Data Modeling
+- KPI Dashboards
+
+### ☁️ Cloud & Data Engineering
+- Microsoft Fabric
+- Microsoft Azure
+- Databricks
+- Python
+- PySpark
+- Lakehouse Architecture
+- Data Pipelines
+
+### 💻 Development & Integration
+- C#
+- .NET / .NET Core
+- ASP.NET
+- ASP.NET Web Forms
+- REST APIs
+- Web Services
+- JSON
+- XML
+
+### 🛠️ Application & Production Support
+- Application Support
+- Production Support
+- Incident Analysis
+- Root Cause Analysis
+- Application Troubleshooting
+- Data Issue Investigation
+- Testing & Validation
+- Change Management
+- Technical Documentation
+- ITIL Practices
+
+### 🔧 Tools
+- Git
+- GitHub
+- Visual Studio
+- Visual Studio Code
+- SQL Server Management Studio
+- Postman
+- IIS
+- Windows Server
+- Power Automate
+
+---
 
 ## 🏆 Certifications
-![MCSD](https://img.shields.io/badge/MCSD-Web_Applications-0078D4?logo=microsoft)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure)
-![Azure Data](https://img.shields.io/badge/Azure_Data-0089D6?logo=microsoft-azure)
 
-## 🛠️ Technical Stack
+- **Microsoft Certified: Fabric Data Engineer Associate — DP-700**
+- **Microsoft Certified: Fabric Analytics Engineer Associate — DP-600**
+- **Microsoft Certified: Power BI Data Analyst Associate — PL-300**
+- **Databricks Certified Data Engineer Associate**
+- **ITIL 4 Foundation**
+- **Microsoft Azure Fundamentals — AZ-900**
+- **Microsoft Security, Compliance, and Identity Fundamentals — SC-900**
+- **Microsoft Certified Solutions Developer — Web Applications**
 
-### **Backend Development**
-- **Languages:** C#, T-SQL, Python, JavaScript
-- **Frameworks:** .NET 8, ASP.NET Core, Entity Framework
-- **API Development:** ASP.NET Web API (RESTful APIs)
+---
 
-### **Frontend & Web**
-- **Frontend:** JavaScript, jQuery, Bootstrap, HTML5, CSS3
-- **Web Technologies:** ASP.NET MVC, Razor Pages, Blazor
-- **Data Visualization & BI Tools:** Power BI, Tableau, SSRS, Advanced Excel, DAX
+## 🎓 Education
 
-### **Database & Data**
-- **Databases:** SQL Server, Azure SQL, PostgreSQL, MySQL
-- **Data Skills:** T-SQL Optimization, Stored Procedures, ETL (SSIS), Power Automate
-- **Data Processing:** Python, Pandas, Numpy, Apache Spark
+### Conestoga College
+- Graduate Certificate — Big Data Solution Architecture
+- Graduate Certificate — Business Analytics
 
-### **Tools & Platforms**
-- Git, Microsoft Azure, SharePoint Online, Power Automate, CI/CD, Agile/Scrum
+### University of Southern Queensland
+- Master of Information Technology
+
+---
 
 ## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/cho-aung](https://www.linkedin.com/in/cho-aung)
+- 🌐 **Portfolio:** [agcho.github.io](https://agcho.github.io)
+- 💻 **GitHub:** [github.com/agcho](https://github.com/agcho)
 - 📧 **Email:** agcho80@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/cho-aung](https://linkedin.com/in/cho-aung)
-- 🏢 **Location:** Kitchener, Ontario, Canada
+- 📍 **Location:** Moncton, New Brunswick, Canada
 
+---
 
+## 🎯 Current Focus
 
-<!--
-**AgCho/AgCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building practical portfolio projects around:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`SQL Server` • `ETL` • `Microsoft Fabric` • `Power BI` • `Azure` • `Databricks` • `Data Engineering` • `Application Support`
