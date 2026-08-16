@@ -26,7 +26,7 @@ My background combines application development, data integration, production sup
 🚲 **[Toronto Bike Share Analytics Pipeline](https://github.com/agcho/Toronto-Bike-Share-Analytics-Pipeline-Project)**  
 End-to-end data engineering and analytics project that transforms Toronto Bike Share data into analytics-ready datasets and business insights.
 
-Tech: `GCP` · `BigQuery` · `dbt` · `Kestra` · `Terraform` · `Power BI`
+Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 
 ---
 
@@ -44,19 +44,23 @@ Tech: `GCP` · `BigQuery` · `dbt` · `Kestra` · `Terraform` · `Power BI`
 `Data Modeling` • `KPI Dashboards`
 
 ### ☁️ Cloud & Data Engineering
+
 `Microsoft Fabric` • `Microsoft Azure` • `Databricks` • `Python` • `PySpark`  
 `Lakehouse Architecture` • `Data Pipelines`
 
 ### 💻 Development & Integration
+
 `C#` • `.NET / .NET Core` • `ASP.NET` • `ASP.NET Web Forms`  
 `REST APIs` • `Web Services` • `JSON` • `XML` • `CSV`
 
 ### 🛠️ Application & Production Support
+
 `Application Support` • `Production Support` • `Incident Analysis`  
 `Root Cause Analysis` • `Application Troubleshooting` • `Data Issue Investigation`  
 `Testing & Validation` • `Change Management` • `Technical Documentation` • `ITIL Practices`
 
 ### 🔧 Tools
+
 `Git` • `GitHub` • `Visual Studio` • `Visual Studio Code`  
 `SQL Server Management Studio` • `Postman` • `IIS` • `Windows Server` • `Power Automate`
 
