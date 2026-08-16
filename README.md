@@ -96,13 +96,12 @@ End-to-end data engineering project using GCP, BigQuery, dbt, Kestra, Terraform,
 
 ## 🏆 Certifications
 
+- **Microsoft Certified: Developing AI-Enabled Database Solutions — DP-800**
 - **Microsoft Certified: Fabric Data Engineer Associate — DP-700**
 - **Microsoft Certified: Fabric Analytics Engineer Associate — DP-600**
 - **Microsoft Certified: Power BI Data Analyst Associate — PL-300**
 - **Databricks Certified Data Engineer Associate**
 - **ITIL 4 Foundation**
-- **Microsoft Azure Fundamentals — AZ-900**
-- **Microsoft Security, Compliance, and Identity Fundamentals — SC-900**
 - **Microsoft Certified Solutions Developer — Web Applications**
 
 ---
