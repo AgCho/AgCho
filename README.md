@@ -12,7 +12,7 @@
 
 I am an application and data professional with experience developing and supporting enterprise applications, SQL Server databases, ETL pipelines, system integrations, and business intelligence solutions.
 
-My background combines application development, data integration, production support, reporting, and cloud data technologies.
+My background combines application development, data integration, production support, reporting, and cloud data technologies with a strong focus on reliable, maintainable, and data-driven systems.
 
 ---
 <!--
@@ -24,73 +24,42 @@ My background combines application development, data integration, production sup
 ## ⭐ Featured Work
 
 🚲 **[Toronto Bike Share Analytics Pipeline](https://github.com/agcho/Toronto-Bike-Share-Analytics-Pipeline-Project)**  
-End-to-end data engineering project using GCP, BigQuery, dbt, Kestra, Terraform, and Power BI.
+End-to-end data engineering and analytics project that transforms Toronto Bike Share data into analytics-ready datasets and business insights.
+
+Tech: `GCP` · `BigQuery` · `dbt` · `Kestra` · `Terraform` · `Power BI`
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 🗄️ Database & Data
-- SQL Server
-- T-SQL
-- Stored Procedures
-- Query Optimization
-- SSIS
-- ETL / ELT
-- Data Integration
-- Data Validation
-- Azure SQL
+
+`SQL Server` · `T-SQL` · `Stored Procedures` · `Query Optimization`  
+`OLTP` · `OLAP` · `Data Warehousing` · `Dimensional Modeling`  
+`SSIS` · `ETL / ELT` · `Data Integration` · `Data Validation` · `Azure SQL`
+
 
 ### 📊 Business Intelligence & Reporting
-- Power BI
-- DAX
-- Power Query
-- SSRS
-- Advanced Excel
-- Data Modeling
-- KPI Dashboards
+
+`Power BI` · `DAX` · `Power Query` · `SSRS` · `Advanced Excel`  
+`Data Modeling` · `KPI Dashboards`
 
 ### ☁️ Cloud & Data Engineering
-- Microsoft Fabric
-- Microsoft Azure
-- Databricks
-- Python
-- PySpark
-- Lakehouse Architecture
-- Data Pipelines
+`Microsoft Fabric` · `Microsoft Azure` · `Databricks` · `Python` · `PySpark`  
+`Lakehouse Architecture` · `Data Pipelines`
 
 ### 💻 Development & Integration
-- C#
-- .NET / .NET Core
-- ASP.NET
-- ASP.NET Web Forms
-- REST APIs
-- Web Services
-- JSON
-- XML
+`C#` · `.NET / .NET Core` · `ASP.NET` · `ASP.NET Web Forms`  
+`REST APIs` · `Web Services` · `JSON` · `XML`
 
 ### 🛠️ Application & Production Support
-- Application Support
-- Production Support
-- Incident Analysis
-- Root Cause Analysis
-- Application Troubleshooting
-- Data Issue Investigation
-- Testing & Validation
-- Change Management
-- Technical Documentation
-- ITIL Practices
+`Application Support` · `Production Support` · `Incident Analysis`  
+`Root Cause Analysis` · `Application Troubleshooting` · `Data Issue Investigation`  
+`Testing & Validation` · `Change Management` · `Technical Documentation` · `ITIL Practices`
 
 ### 🔧 Tools
-- Git
-- GitHub
-- Visual Studio
-- Visual Studio Code
-- SQL Server Management Studio
-- Postman
-- IIS
-- Windows Server
-- Power Automate
+`Git` · `GitHub` · `Visual Studio` · `Visual Studio Code`  
+`SQL Server Management Studio` · `Postman` · `IIS` · `Windows Server` · `Power Automate`
 
 ---
 
