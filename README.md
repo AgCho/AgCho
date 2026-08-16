@@ -34,32 +34,31 @@ Tech: `GCP` · `BigQuery` · `dbt` · `Kestra` · `Terraform` · `Power BI`
 
 ### 🗄️ Database & Data
 
-`SQL Server` · `T-SQL` · `Stored Procedures` · `Query Optimization`  
-`OLTP` · `OLAP` · `Data Warehousing` · `Dimensional Modeling`  
-`SSIS` · `ETL / ELT` · `Data Integration` · `Data Validation` · `Azure SQL`
-
+`SQL Server` • `T-SQL` • `Stored Procedures` • `Query Optimization`  
+`OLTP` • `OLAP` • `Data Warehousing` • `Dimensional Modeling`  
+`SSIS` • `ETL / ELT` • `Data Integration` • `Data Validation` • `Azure SQL`
 
 ### 📊 Business Intelligence & Reporting
 
-`Power BI` · `DAX` · `Power Query` · `SSRS` · `Advanced Excel`  
-`Data Modeling` · `KPI Dashboards`
+`Power BI` • `DAX` • `Power Query` • `SSRS` • `Advanced Excel`  
+`Data Modeling` • `KPI Dashboards`
 
 ### ☁️ Cloud & Data Engineering
-`Microsoft Fabric` · `Microsoft Azure` · `Databricks` · `Python` · `PySpark`  
-`Lakehouse Architecture` · `Data Pipelines`
+`Microsoft Fabric` • `Microsoft Azure` • `Databricks` • `Python` • `PySpark`  
+`Lakehouse Architecture` • `Data Pipelines`
 
 ### 💻 Development & Integration
-`C#` · `.NET / .NET Core` · `ASP.NET` · `ASP.NET Web Forms`  
-`REST APIs` · `Web Services` · `JSON` · `XML`
+`C#` • `.NET / .NET Core` • `ASP.NET` • `ASP.NET Web Forms`  
+`REST APIs` • `Web Services` • `JSON` • `XML` • `CSV`
 
 ### 🛠️ Application & Production Support
-`Application Support` · `Production Support` · `Incident Analysis`  
-`Root Cause Analysis` · `Application Troubleshooting` · `Data Issue Investigation`  
-`Testing & Validation` · `Change Management` · `Technical Documentation` · `ITIL Practices`
+`Application Support` • `Production Support` • `Incident Analysis`  
+`Root Cause Analysis` • `Application Troubleshooting` • `Data Issue Investigation`  
+`Testing & Validation` • `Change Management` • `Technical Documentation` • `ITIL Practices`
 
 ### 🔧 Tools
-`Git` · `GitHub` · `Visual Studio` · `Visual Studio Code`  
-`SQL Server Management Studio` · `Postman` · `IIS` · `Windows Server` · `Power Automate`
+`Git` • `GitHub` • `Visual Studio` • `Visual Studio Code`  
+`SQL Server Management Studio` • `Postman` • `IIS` • `Windows Server` • `Power Automate`
 
 ---
 
@@ -72,22 +71,3 @@ Tech: `GCP` · `BigQuery` · `dbt` · `Kestra` · `Terraform` · `Power BI`
 - **Databricks Certified Data Engineer Associate**
 - **ITIL 4 Foundation**
 - **Microsoft Certified Solutions Developer — Web Applications**
-
----
-
-## 🎓 Education
-
-### Conestoga College
-- Graduate Certificate — Big Data Solution Architecture
-- Graduate Certificate — Business Analytics
-
-### University of Southern Queensland
-- Master of Information Technology
-
----
-
-## 🎯 Current Focus
-
-Currently building practical portfolio projects around:
-
-`SQL Server` • `ETL` • `Microsoft Fabric` • `Power BI` • `Azure` • `Databricks` • `Data Engineering` • `Application Support`
