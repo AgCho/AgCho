@@ -50,7 +50,7 @@ Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 
 ### 💻 Development & Integration
 
-`C#` • `.NET / .NET Core` • `ASP.NET` • `ASP.NET Web Forms`  
+`C#` • `.NET / .NET Core` • `ASP.NET` • `ASP.NET MVC` • `ASP.NET Web Forms`  
 `REST APIs` • `Web Services` • `JSON` • `XML` • `CSV`
 
 ### 🛠️ Application & Production Support
