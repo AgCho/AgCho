@@ -68,7 +68,7 @@ Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 
 ## 🏆 Certifications
 
-- **Microsoft Certified: Developing AI-Enabled Database Solutions — DP-800**
+- **Microsoft Certified: SQL AI Developer Associate — DP-800**
 - **Microsoft Certified: Fabric Data Engineer Associate — DP-700**
 - **Microsoft Certified: Fabric Analytics Engineer Associate — DP-600**
 - **Microsoft Certified: Power BI Data Analyst Associate — PL-300**
